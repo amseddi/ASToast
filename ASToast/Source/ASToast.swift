@@ -54,7 +54,7 @@ struct Constants {
     static let ToastViewAlpha = CGFloat(0.0)
 
     // shadow appearance
-    static let ToastDisplayShadow = true
+    static let ToastDisplayShadow = false
     static let ToastShadowOpacity = Float(0.8)
     static let ToastShadowRadius = CGFloat(5.0)
     static var ToastShadowOffset: CGSize = CGSize(width: 3.0, height: 3.0)
